@@ -1,36 +1,29 @@
 ### Hi there 👋
 
-Greetings, my name is Moses Kurniawan. I am a semi-fullstack developer, currently residing in Bogor, West Java, Indonesia. I am currently employed at @tix-id, the No. 1 cinema and event ticket purchasing app in Indonesia.
+Greetings, my name is Moses Kurniawan. I am a semi-fullstack developer, currently residing in Bogor, West Java, Indonesia. I am currently employed as a web team leader at @tix-id, the No. 1 cinema, event ticketing purchasing and entertainment app in Indonesia.
 
-My traits are troubleshooter, support/adviser-person rather than leading-person. I can safely say that I am also a [Duct Tape](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) programmer. The focus is proper but also quick solution. Other than programming, I do computer repair, service and troubleshooting, under **momo computer** personal brand. Outside of IT, I also repair wrist watches.
+My traits are troubleshooter, support/adviser-person rather than leading-person. I can safely say that I am also a [Duct Tape](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) programmer. The focus is proper but also quick solution. Other than programming, I do computer repair, service and troubleshooting, under **momo computer** personal brand. My other hobbies outside IT is wrist watches and cycling.
 
-I am mainly a PHP programmer, since the past ~1 decade. Other than PHP, I also do HTML, Javascript (jquery), and CSS (Bootstrap). However, due to tech nature, these tech are now counted as "legacy"; slowly-fading and less used in job postings.
-Even current-day tech are still having these 3 components as foundation, the major changes are how they are made. And I am currently in progress towards that.
+I used to be a PHP programmer, since the past ~1 decade. But right now, tools and methodologies were so much different than the past.
 
-I also do Adobe Photoshop and Illustrator, but mainly web-focused and image processing that suited for web, not artistic works.
+I also do design using ~~Adobe Photoshop and Illustrator~~ Affinity Designer and Affinity Photo, but mainly web-focused and image processing that suited for web, not artistic works.
 
 My skills, based on tech stack:
 
 - **PHP** for general-purpose (experienced), with frameworks:
-  - CodeIgniter 3 (experienced)
-  - CodeIgniter 4 (moderate)
-  - Laravel 7 and 8 (moderate)
-  - WordPress (experienced)
-- **MariaDB/MySQL** for database (experienced)
-- **PostgreSQL** for database (moderate)
-- **Go/Golang**, as my plan to work along with PHP (novice)
-- **Vue.js** for frontend web (novice)
+  - CodeIgniter 3 (experienced), 4 (moderate, no longer using)
+  - Laravel (experienced, actively used)
+  - WordPress (experienced, case by case use)
+- **MariaDB/MySQL** for database (experienced) and **PostgreSQL** (moderate)
+- **Go/Golang** (moderate, actively used along with PHP)
+- **Javascript** (moderate)
+- **Vue.js** for frontend web (moderate)
 - **Git** for team-based contributions
-- **Linux for server administration** (Web server), with Ubuntu.
+- **Linux for server administration** (Web server), with Ubuntu. I used to productively using Fedora.
 - **Docker+devilbox** for supporting local development environment.
 - I use **JIRA** at work and **Trello** for my personal projects.
 
-Despite my tech focus above, it does not mean I am not interested with other tech. In fact, I have great interests, too, and would be great if I can get a chance to work with it. My other tech interests:
-
-- Database: **MongoDB**
-- Frontend: **ReactJS**
-- Mobile: **Flutter**, but also **iOS Swift** and **Kotlin**
-- ...or anything that the job needs.
+Despite my tech focus above, it does not mean I am not interested with other tech. In fact, I have great interests and would be great if I can get a chance to work with it.
 
 My skills and my common tasks, based on experiences:
 
