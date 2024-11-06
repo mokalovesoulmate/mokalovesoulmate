@@ -31,15 +31,15 @@ Though these are my primary technical focuses, I am always open to learning and 
 
 Here are some of my recent projects and areas of expertise:
 
-- **Corporate Websites**: Designed and built several websites, including [PublicPolicy Asia Advisors](https://www.ppaa.com.sg) (Singapore-based advisory firm) and [LuckyFox](https://luckyfox.id) (gaming accessories provider). Both are built with WordPress/PHP.
-- **E-commerce**: Recently developed [Play Inc. Store](https://www.playincstore.com), an e-commerce website for video games, using WordPress.
+- **Corporate Websites**: Designed and built company profile websites. On this area, the tools I use mainly WordPress/PHP.
+- **E-commerce**: Designed and built e-commerce websites using WordPress and Woocommerce.
 - **Third-party Payment Integrations**: Experienced with MidTrans, DOKU Wallet, and PayPal.
-- **Chatbot Development**: Automated messaging systems using LINE, and currently exploring Telegram and WhatsApp integrations.
+- **Chatbot Development**: Automated messaging systems using LINE, Telegram and WhatsApp integrations.
 - **Attendance Systems**: Implemented QR code-based attendance solutions.
 - **Admin Dashboards**: Built administration panels with login systems, access controls, and audit features.
 - **Web Security**: Focused on securing both applications and server infrastructure.
-- **Cloud Infrastructure Management**: Proficient with AWS and Alibaba Cloud.
-- **Google Firebase**: Basic knowledge, using Realtime Database for recent projects.
+- **Cloud Infrastructure Management**: Proficient with AWS, Alibaba Cloud and Google Cloud.
+- **Google Firebase**: Moderate knowledge, using Realtime Database for recent projects.
 - **Push Notifications**: Integrated with OneSignal.
 
 _(This list is updated periodically.)_
