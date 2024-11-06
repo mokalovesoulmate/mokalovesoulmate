@@ -1,42 +1,49 @@
-### Hi there 👋
+### Hello! 👋
 
-Greetings, my name is Moses Kurniawan. I am a semi-fullstack developer, currently residing in Bogor, West Java, Indonesia. I am currently employed as a web team leader at @tix-id, the No. 1 cinema, event ticketing purchasing and entertainment app in Indonesia.
+I'm Moses Kurniawan, a semi-fullstack developer based in Bogor, West Java, Indonesia. Currently, I serve as a Web Team Leader at [TIX ID](https://www.tix.id), Indonesia's leading platform for cinema, event ticketing, and entertainment.
 
-My traits are troubleshooter, support/adviser-person rather than leading-person. I can safely say that I am also a [Duct Tape](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/) programmer. The focus is proper but also quick solution. Other than programming, I do computer repair, service and troubleshooting, under **momo computer** personal brand. My other hobbies outside IT is wrist watches and cycling.
+As a developer, I’m known for being a reliable troubleshooter and advisor, rather than a conventional leader. I consider myself a [Duct Tape Programmer](https://www.joelonsoftware.com/2009/09/23/the-duct-tape-programmer/), focused on delivering effective, practical solutions efficiently. In addition to programming, I handle computer repair and troubleshooting under my personal brand, **Momo Computer**. Outside of IT, my interests include wristwatches and cycling.
 
-I used to be a PHP programmer, since the past ~1 decade. But right now, tools and methodologies were so much different than the past.
+Over the past decade, my programming background was primarily in PHP, though modern tools and methodologies have significantly evolved since then.
 
-I also do design using ~~Adobe Photoshop and Illustrator~~ Affinity Designer and Affinity Photo, but mainly web-focused and image processing that suited for web, not artistic works.
+I also have experience in design, working with ~~Adobe Photoshop and Illustrator~~ Affinity Designer and Affinity Photo, specifically in web-focused and image processing tasks rather than artistic works.
 
-My skills, based on tech stack:
+### Technical Skills
 
-- **PHP** for general-purpose (experienced), with frameworks:
-  - CodeIgniter 3 (experienced), 4 (moderate, no longer using)
-  - Laravel (experienced, actively used)
-  - WordPress (experienced, case by case use)
-- **MariaDB/MySQL** for database (experienced) and **PostgreSQL** (moderate)
-- **Go/Golang** (moderate, actively used along with PHP)
-- **Javascript** (moderate)
-- **Vue.js** for frontend web (moderate)
-- **Git** for team-based contributions
-- **Linux for server administration** (Web server), with Ubuntu. I used to productively using Fedora.
-- **Docker+devilbox** for supporting local development environment.
-- I use **JIRA** at work and **Trello** for my personal projects.
+Here’s a summary of my skills based on my tech stack:
 
-Despite my tech focus above, it does not mean I am not interested with other tech. In fact, I have great interests and would be great if I can get a chance to work with it.
+- **PHP** (experienced), with frameworks:
+  - CodeIgniter 3 (proficient) and CodeIgniter 4 (moderate, not in active use)
+  - Laravel (actively used)
+  - WordPress (case-by-case use)
+- **Databases**: MariaDB/MySQL (experienced) and PostgreSQL (moderate)
+- **Go/Golang** (moderate, actively used alongside PHP)
+- **JavaScript** (moderate)
+- **Vue.js** for frontend (moderate)
+- **Git** for team collaboration
+- **Linux Server Administration** (primarily Ubuntu; experienced with Fedora in the past)
+- **Docker + devilbox** for local development environments
+- Project Management Tools: **JIRA** (work) and **Trello** (personal projects)
 
-My skills and my common tasks, based on experiences:
+Though these are my primary technical focuses, I am always open to learning and working with other technologies as well.
 
-- Building company profile websites, include design. My latest company profile website is [PublicPolicy Asia Advisors](https://www.ppaa.com.sg), a Singapore-based strategic and business advisory firm. My other latest work is [LuckyFox](https://luckyfox.id), a console game accessories provider. Both websites are Wordpress/PHP based.
-- Building e-commerce website. My latest e-commerce website is [Play Inc. Store](https://www.playincstore.com) using WordPress. It is a video game e-commerce website.
-- Third-party payment integrations, including MidTrans, DOKU Wallet, PayPal.
-- Building chat bot. Sending automated messages from LINE mobile client and processing by the server for automated tasks. I currently experimenting with Telegram and WhatsApp.
-- Attendant system using QR code.
-- Building dashboard administration/control panel for existing running systems. Includes login system, access controls, and actions audit.
-- Securing a website, covering the application itself, and the server.
-- Manage cloud infrastructure using AWS/Alibaba Cloud.
-- Novice skills with Google Firebase. I use Realtime Database for recent project.
-- OneSignal integration for push notifications.
-- _this list will be updated over time._
+### Project Experience
 
-I am currently not available for full-time hire, but available for quick fixes/remote freelance. Just let me know by sending email to hi@moseskurniawan.com. Looking forward to work with you.
+Here are some of my recent projects and areas of expertise:
+
+- **Corporate Websites**: Designed and built several websites, including [PublicPolicy Asia Advisors](https://www.ppaa.com.sg) (Singapore-based advisory firm) and [LuckyFox](https://luckyfox.id) (gaming accessories provider). Both are built with WordPress/PHP.
+- **E-commerce**: Recently developed [Play Inc. Store](https://www.playincstore.com), an e-commerce website for video games, using WordPress.
+- **Third-party Payment Integrations**: Experienced with MidTrans, DOKU Wallet, and PayPal.
+- **Chatbot Development**: Automated messaging systems using LINE, and currently exploring Telegram and WhatsApp integrations.
+- **Attendance Systems**: Implemented QR code-based attendance solutions.
+- **Admin Dashboards**: Built administration panels with login systems, access controls, and audit features.
+- **Web Security**: Focused on securing both applications and server infrastructure.
+- **Cloud Infrastructure Management**: Proficient with AWS and Alibaba Cloud.
+- **Google Firebase**: Basic knowledge, using Realtime Database for recent projects.
+- **Push Notifications**: Integrated with OneSignal.
+
+_(This list is updated periodically.)_
+
+### Availability
+
+Currently, I am not open to full-time positions but am available for remote freelance work and quick-fix tasks. Feel free to reach out via email at [hi@moseskurniawan.com](mailto:hi@moseskurniawan.com). Looking forward to potential collaborations!
